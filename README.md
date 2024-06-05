@@ -18,8 +18,4 @@ Welcome to our Tic Tac Toe game! This game can be played on any device with a we
 * Automatic win/draw detection
 * Reset button to start a new game at any time
 
-# Feedback
-Feedback
-If you encounter any bugs or have any suggestions for improvements, please open an issue on the GitHub repository.
 
-Enjoy the game!
