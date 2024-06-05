@@ -1,4 +1,4 @@
-# TicTacToe-game
+# Tic-Tac-Toe-Game
 
 Welcome to our Tic Tac Toe game! This game can be played on any device with a web browser, including desktop and mobile devices.
 
